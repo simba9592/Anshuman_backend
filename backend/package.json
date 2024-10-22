@@ -20,7 +20,7 @@
     "jsonwebtoken": "8.5.1",
     "mongoose": "8.2.2",
     "passport": "0.7.0",
-    "passport-jwt": "4.0.1"s
+    "passport-jwt": "4.0.1"
   },
   "devDependencies": {
     "nodemon": "3.0.2"
